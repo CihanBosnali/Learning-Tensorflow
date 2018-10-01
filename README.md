@@ -6,4 +6,5 @@ This repo contains Jupyter Notebooks which I created while learning Tensorflow.
 - Lecture 3 is about the pre-made estimators, feature columns and input function in Tensorflow.
 - Lecture 4 is about the pre-made Deep Neural Network Classifiers in Tensorflow.
 - Lecture 5 is about the Custom Estimators in Tensorflow.
+- Lecture 6 is about the Convolutional Neural Networks and Creating a Custom Estimators for CNN.
 - Will continue...
